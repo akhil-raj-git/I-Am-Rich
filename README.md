@@ -12,11 +12,11 @@ A simple app to explore the storyboard and Xcode features/settings
 
 ## App Icon Design
 
-![I Am Rich - App Icon](https://imgur.com/O7arZ0R)
+![I Am Rich - App Icon](https://imgur.com/O7arZ0R.png)
 
 ## App Screenshots
 
-![App Icon in Home Screen](https://imgur.com/jDhHoJC)
+![App Icon in Home Screen](https://imgur.com/jDhHoJC.png)
 
-![App](https://imgur.com/KNB6zw7)
+![App](https://imgur.com/KNB6zw7.png)
 
