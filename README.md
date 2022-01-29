@@ -9,6 +9,7 @@ A simple app to explore the storyboard and Xcode features/settings
 - How to incorporate image assets into an app
 - How to design an create a custom app icon
 - How to run an app on a Simulator and an iOS device (wired and wireless)
+- Connecting Git to Xcode Source Control tools
 
 ## App Icon Design
 
